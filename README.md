@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate Jr.Data Scientist from Turkey</h3>
+<h3 align="center">A passionate Jr.Data Scientist from Eksim Holding in Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eneskcr21&label=Profile%20views&color=0e75b6&style=flat" alt="eneskcr21" /> </p>
