@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **smart field management**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything** <p>&#128516;</p>
 
 - 💬 Ask me about **Python**
 
